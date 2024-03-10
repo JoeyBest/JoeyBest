@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Data Analyst from London, United Kingdom</h3>
 
 - 🎓 I Graduated with a BSc in Biology from Manchester Metropolitan University
-- 
+
 - 📚 I completed my Data Analytics Training from AiCore
-- 
+ 
 - 🤔 I’m looking for a Data Analyst Role in the Tech Sector!
-- 
+ 
 - 💬 Ask me about my **EDA Loans Project**
-- 
+ 
 - 📫 How to reach me
   - Email: joejoebest@hotmail.co.uk
   - Mobile: 07508237664
