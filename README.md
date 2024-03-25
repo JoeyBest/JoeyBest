@@ -5,7 +5,7 @@
 
 - 📚 I completed my Data Analytics Training from AiCore
  
-- 🤔 I’m looking for a Data Analyst Role in the Tech Sector!
+- 🤔 I’m looking for a Data Analyst Role in the Finance, Medical or Tech Sector!
  
 - 💬 Ask me about my **EDA Loans Project**
  
